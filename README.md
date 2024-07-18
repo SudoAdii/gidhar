@@ -1,19 +1,19 @@
-# gidhar
+# Gidhar
 
-SAVE THE FILE IN YOUR PENDRIVE AND USE AUTORUN PENDRIVE
-TO RUN IT ON SYSTEM BOOT.
+Welcome to the Gidhar Project
 
-ENJECT THE PENDRIVE ON THE VICTIM SYSTEM 
-AND WAIT , BUT CHANGE THE CONFIG OF THE FILE TO MAKE NECESSARY 
-CHANGES ,
+This file serves as an introduction to the Gidhar project, a versatile tool currently under development.
 
-AUTO VBS FILE DIRECTORY DETECTION.
-SO JUST RUN IT AND HAVE FUN
+Key Features (Future Implementations):
 
-NEXT PATCH:
-~ MAKING A PY TOOL FOR CUSTOM FILE MAKER
-~ MAKING USER FRIENDLY INTERFACE
+Auto VBS File Directory Detection:
+Aims to streamline the process of locating VBS files.
+Custom File Maker (Python Tool):
+Plans to offer a user-friendly interface for creating custom files.
+Stay Tuned!
 
-THANKS,
-HACKER - MR.INVIER
+Next Steps:
 
+Development of the Python tool with a user-friendly interface.
+Continued exploration of features and functionalities.
+Thank You!
